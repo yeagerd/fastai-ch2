@@ -2,6 +2,6 @@
 
 ## References
 
-https://course.fast.ai/Lessons/lesson2.html
+<https://course.fast.ai/Lessons/lesson2.html>
 
-https://github.com/fastai/tinypets
+<https://github.com/fastai/tinypets>
