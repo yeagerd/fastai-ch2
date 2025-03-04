@@ -1,0 +1,6 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Fast AI Chapter 2 Demo
+description: A simple bear classifier
